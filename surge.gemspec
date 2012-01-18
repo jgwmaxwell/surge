@@ -8,8 +8,8 @@ Gem::Specification.new do |s|
   s.authors     = ["John Maxwell"]
   s.email       = ["jgwmaxwell@gmail.com"]
   s.homepage    = "http://jgwmaxwell.github.com/surge"
-  s.summary     = %q{Surge is an Amazon DynamoDB ODM}
-  s.description = %q{Surge is an Amazon DynamoDB ODM}
+  s.summary     = %q{}
+  s.description = %q{}
 
   s.rubyforge_project = "surge"
 
